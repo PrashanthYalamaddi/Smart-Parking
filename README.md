@@ -2,6 +2,10 @@
 
 Production-ready MERN-based Smart Parking System website adapting the design and UX of [React Bits Pro Minimal Template](https://rbp-minimal-template.vercel.app/) with full component fidelity and integrated interactive operations management.
 
+## Use this URL to open the website.
+
+https://smart-parking-rouge-three.vercel.app/
+
 ## Project Problem Statement: 36. Smart Parking System
 
 1. **Problem Statement:** Build a MERN-based smart parking system that manages parking slots.
